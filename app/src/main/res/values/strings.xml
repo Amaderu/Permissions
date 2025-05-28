@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Permissions</string>
+    <string name="tv_listed_text">Записан</string>
+    <string name="tv_FIO_text">FIO</string>
+    <string name="btn_text_get_contacts">Get contacts</string>
+    <string name="btn_text_open_settings_pos">Открыть системные настройки</string>
+    <string name="btn_text_open_settings_neg">Нет, спасибо, не нужно</string>
+    <string name="dialog_text1" translatable="false">Для отображения списка контактов приложению требуется разрешение на доступ к контактам. Без этого разрешения работа, увы, невозможна.</string>
+    <string name="dialog_text2" translatable="false">Если Вы хотите дать программе ещё один шанс, то откройте системные настройки и выдайте разрешение программе на доступ к контактам. </string>
+</resources>

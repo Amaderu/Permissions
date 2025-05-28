@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Разрешения</string>
+    <string name="tv_listed_text">Записан</string>
+    <string name="tv_FIO_text">ФИО</string>
+    <string name="btn_text_get_contacts">Получить контакты</string>
+    <string name="btn_text_open_settings_pos">Открыть системные настройки</string>
+    <string name="btn_text_open_settings_neg">Нет, спасибо, не нужно</string>
+</resources>
